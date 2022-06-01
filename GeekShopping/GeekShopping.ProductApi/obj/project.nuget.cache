@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pekdhocJqH/QAZhuLi7qbxsTOf8FtOEG/T70sUCG2OwKSlA1Q0uEx1e7ddQ/FRnMJLVDGBP7UAwpcxl73k+Fqg==",
+  "dgSpecHash": "kKOoUc7tq+SmSNlZia3mAxTZLpZ6mt5Fxpn/Cgk4izc/3YLUhXXQwfncHImZvpA1TtNvsZSMeTOv+5yulcF7lQ==",
   "success": true,
   "projectFilePath": "D:\\Projetos\\microservices-dotnet\\GeekShopping\\GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj",
   "expectedPackageFiles": [

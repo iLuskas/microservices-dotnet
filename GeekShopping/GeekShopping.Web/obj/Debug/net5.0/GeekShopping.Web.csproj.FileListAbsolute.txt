@@ -362,3 +362,5 @@ D:\Projetos\microservices-dotnet\GeekShopping\GeekShopping.Web\bin\Debug\net5.0\
 D:\Projetos\microservices-dotnet\GeekShopping\GeekShopping.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\Projetos\microservices-dotnet\GeekShopping\GeekShopping.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 D:\Projetos\microservices-dotnet\GeekShopping\GeekShopping.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projetos\microservices-dotnet\GeekShopping\GeekShopping.Web\obj\Debug\net5.0\Razor\Views\Product\ProductIndex.cshtml.g.cs
+D:\Projetos\microservices-dotnet\GeekShopping\GeekShopping.Web\obj\Debug\net5.0\Razor\Views\Product\ProductCreate.cshtml.g.cs

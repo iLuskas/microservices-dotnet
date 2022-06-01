@@ -48,4 +48,5 @@ D:\Projetos\microservices-dotnet\GeekShopping\GeekShopping.ProductApi\obj\Debug\
 D:\Projetos\microservices-dotnet\GeekShopping\GeekShopping.ProductApi\obj\Debug\net5.0\ref\GeekShopping.ProductApi.dll
 D:\Projetos\microservices-dotnet\GeekShopping\GeekShopping.ProductApi\obj\Debug\net5.0\GeekShopping.ProductApi.pdb
 D:\Projetos\microservices-dotnet\GeekShopping\GeekShopping.ProductApi\obj\Debug\net5.0\GeekShopping.ProductApi.genruntimeconfig.cache
-D:\Projetos\microservices-dotnet\GeekShopping\GeekShopping.ProductApi\obj\Debug\net5.0\refint\GeekShopping.ProductApi.dll
+D:\Projetos\microservices-dotnet\GeekShopping\GeekShopping.ProductApi\bin\Debug\net5.0\ref\GeekShopping.ProductApi.dll
+D:\Projetos\microservices-dotnet\GeekShopping\GeekShopping.ProductApi\obj\Debug\net5.0\staticwebassets\GeekShopping.ProductApi.StaticWebAssets.xml
