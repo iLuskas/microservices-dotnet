@@ -49,11 +49,11 @@ namespace GeekShopping.ProductApi.Repository
         {
             try
             {
-                var productVO = FindById(id);
+                Product product =
+                await _context.Products.Where(p => p.Id == id)
+                    .FirstOrDefaultAsync();
 
-                if (productVO == null) return false;
-
-                var product = _mapper.Map<Product>(productVO);
+                if (product == null) return false;
 
                 _context.Products.Remove(product);
 
@@ -62,10 +62,9 @@ namespace GeekShopping.ProductApi.Repository
                 return true;
 
             }
-            catch (Exception)
+            catch (Exception e)
             {
-
-                return false;
+                return string.IsNullOrWhiteSpace(e.Message);
             }
         }
 
